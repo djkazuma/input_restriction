@@ -70,8 +70,8 @@
     }
 
     /*
-     * input only hiragana
-     * @name onlyHiragana
+     * input only katakana
+     * @name onlyKana
      * @example $('.hiragana-only').onlyKana();
      *
      */

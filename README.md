@@ -6,6 +6,9 @@ This Plugin performs input control for input form.
 
 This Plugin supports jQuery2.0.2.
 
+Include Plugin
+    
+    <script type='text/javascript' src='input_restriction.js' charset='utf-8'> </script>
 ##Usage Example
 
 ###Only Numbers(full-width numbers convert to  half-width numbers)
